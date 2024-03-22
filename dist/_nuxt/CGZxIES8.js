@@ -1,0 +1,1 @@
+import{_ as o}from"./Dsy6Oylh.js";import{_ as n,h as r,f as c}from"./Cg4Ujipb.js";import"./Bv2S-UHE.js";const _={};function a(e,s){const t=o;return c(),r(t,{msg:"Waiting for a AGV"})}const p=n(_,[["render",a]]);export{p as default};
