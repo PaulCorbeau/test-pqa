@@ -1,0 +1,1 @@
+import{_ as t}from"./CbSFOpyP.js";import{j as n,f as s,h as e,D as a}from"./CNEe1QMw.js";import"./Crm88Gc2.js";const f=n({__name:"transit",setup(r){return(_,i)=>{const o=t;return s(),e(o,{icon:a,msg:"AGV is in route to position"})}}});export{f as default};

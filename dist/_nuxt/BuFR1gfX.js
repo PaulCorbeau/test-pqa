@@ -1,0 +1,1 @@
+import{_ as t}from"./CbSFOpyP.js";import{j as s,f as e,h as a,D as n}from"./CNEe1QMw.js";import"./Crm88Gc2.js";const f=s({__name:"success",setup(c){return(r,_)=>{const o=t;return e(),a(o,{icon:n,msg:"AGV 12 Heading for Automatic Assembly Station"})}}});export{f as default};
