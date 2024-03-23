@@ -1,0 +1,1 @@
+import{_ as t,e as o,l as n,s as a,k as c,v as s,f as _,x as r}from"./D5jEn3Tq.js";const l={},d=c("h1",null,"login to MA page",-1);function i(f,u){const e=s;return _(),o("div",null,[d,n(e,{to:"/"},{default:a(()=>[r("home")]),_:1})])}const m=t(l,[["render",i]]);export{m as default};
